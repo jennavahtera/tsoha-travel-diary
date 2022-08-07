@@ -11,3 +11,5 @@ Sovelluksen ominaisuuksia ovat:
 - Jos matkaa ei ole vielä suunnitteilla tiettyyn paikkaan, käyttäjä voi nähdä mitä kohteita hänen bucket-listallaan on.
 - Käyttäjä voi selata kaupunkien ja maiden sivuja ja nähdä niihin liittyvät matkat, majoitusvaihtoehdot sekä nähtävyydet.
 - Käyttäjä voi lisätä sivuille suunnitelmia, aikatauluja ja kommentteja.
+
+Sovellusta voi testata [Herokussa](https://tsoha-travel-diary.herokuapp.com/)
