@@ -12,4 +12,4 @@ Sovelluksen ominaisuuksia ovat:
 - Käyttäjä voi selata kaupunkien ja maiden sivuja ja nähdä niihin liittyvät matkat, majoitusvaihtoehdot sekä nähtävyydet.
 - Käyttäjä voi lisätä sivuille suunnitelmia, aikatauluja ja kommentteja.
 
-Sovellusta voi testata [Herokussa](https://tsoha-travel-diary.herokuapp.com/)
+Sovellusta voi testata [Herokussa](https://tsoha-travel-diary.herokuapp.com/). (Sovellus ei toimi tällä hetkellä vielä kunnolla)
